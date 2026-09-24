@@ -6,3 +6,6 @@ build/
 
 # Puzzle inputs (Advent of Code asks for these not to be shared)
 input.txt
+
+# Private progress notes
+PROGRESS.md
